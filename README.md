@@ -1,6 +1,9 @@
 
 # CS305
 
+Through the analysis of advanced security concepts, students will learn how to develop secure code that complies with security testing protocols. In addition to exploring and implementing security concepts through code, students will also learn why and how to apply encryption technologies and techniques to communicate securely.
+
+
 Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?
   Artemis Financial is a consulting company that develops individualized financial plans, including savings, retirement, investments, and insurance, for their customers. Artemis Financial is looking to modernize their software and operations. Their goal is to implement additional security to their exiting current RESTful web application. 
 
